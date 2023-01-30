@@ -51,6 +51,8 @@ final class RegisterTextField: UITextField {
         attributedPlaceholder = NSAttributedString(string: placeholder, attributes: [NSAttributedString.Key.foregroundColor: UIColor.systemGray])
         font = .boldSystemFont(ofSize: 18)
         
+        isSecureTextEntry = true
+        
         heightAnchor.constraint(equalToConstant: 60).isActive = true
         
     }

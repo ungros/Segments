@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		300295632986C50600DCD984 /* tfButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 300295622986C50600DCD984 /* tfButtons.swift */; };
 		30F521FC297992CB009C77CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F521FB297992CB009C77CE /* AppDelegate.swift */; };
 		30F521FE297992CB009C77CE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F521FD297992CB009C77CE /* SceneDelegate.swift */; };
 		30F52200297992CB009C77CE /* AuthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F521FF297992CB009C77CE /* AuthViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		300295622986C50600DCD984 /* tfButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tfButtons.swift; sourceTree = "<group>"; };
 		30F521F8297992CB009C77CE /* Custom UITextField.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Custom UITextField.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		30F521FB297992CB009C77CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		30F521FD297992CB009C77CE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				30F521FD297992CB009C77CE /* SceneDelegate.swift */,
 				30F521FF297992CB009C77CE /* AuthViewController.swift */,
 				30F522122979958C009C77CE /* RegisterTextField.swift */,
+				300295622986C50600DCD984 /* tfButtons.swift */,
 				30F52207297992CC009C77CE /* Assets.xcassets */,
 				30F52209297992CC009C77CE /* LaunchScreen.storyboard */,
 				30F5220C297992CC009C77CE /* Info.plist */,
@@ -140,6 +143,7 @@
 				30F52200297992CB009C77CE /* AuthViewController.swift in Sources */,
 				30F522132979958C009C77CE /* RegisterTextField.swift in Sources */,
 				30F521FC297992CB009C77CE /* AppDelegate.swift in Sources */,
+				300295632986C50600DCD984 /* tfButtons.swift in Sources */,
 				30F521FE297992CB009C77CE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
